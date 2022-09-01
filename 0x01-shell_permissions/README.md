@@ -1,1 +1,1 @@
-mirror permission
+execute permission to subdirectories
