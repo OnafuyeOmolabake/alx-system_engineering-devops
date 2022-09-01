@@ -1,1 +1,1 @@
-execute permission to subdirectories
+directory permission
