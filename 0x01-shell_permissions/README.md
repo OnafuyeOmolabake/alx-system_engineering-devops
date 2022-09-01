@@ -1,1 +1,1 @@
-print effective username
+print group
