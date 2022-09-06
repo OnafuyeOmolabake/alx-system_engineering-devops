@@ -1,1 +1,1 @@
-next pattern
+display lines
