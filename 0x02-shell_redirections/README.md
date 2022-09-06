@@ -1,1 +1,1 @@
-list of words as input
+pattern root
