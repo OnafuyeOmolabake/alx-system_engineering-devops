@@ -1,1 +1,1 @@
-new files
+list of words as input
