@@ -1,1 +1,1 @@
-result of breathe to the power love
+converts a number from base 2 to base 10
