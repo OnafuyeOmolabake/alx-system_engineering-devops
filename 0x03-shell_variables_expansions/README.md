@@ -1,1 +1,1 @@
-prints the result of addition
+prints the result of power divided by divide
