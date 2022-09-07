@@ -1,1 +1,1 @@
-prints the result of power divided by divide
+result of breathe to the power love
