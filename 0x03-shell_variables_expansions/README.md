@@ -1,1 +1,1 @@
-prints every other line from the input
+adds two numbers stored in the environment variable
